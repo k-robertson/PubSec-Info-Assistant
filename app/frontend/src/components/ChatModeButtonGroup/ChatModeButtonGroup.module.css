@@ -67,7 +67,7 @@
     line-height: 24px;
     width: fit-content;
     height: 24px;
-    padding-inline: 12px;
+    /* padding-inline: 12px; */
     pointer-events: none;
     text-decoration: none;
     min-width: 46px;
@@ -115,7 +115,7 @@
     line-height: 24px;
     width: fit-content;
     height: 24px;
-    padding-inline: 12px;
+    /* padding-inline: 12px; */
     pointer-events: none;
     text-decoration: none;
     min-width: 46px;
@@ -163,7 +163,7 @@
     line-height: 24px;
     width: fit-content;
     height: 24px;
-    padding-inline: 12px;
+    /* padding-inline: 12px; */
     pointer-events: none;
     text-decoration: none;
     min-width: 46px;
